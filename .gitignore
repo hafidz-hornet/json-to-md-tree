@@ -48,3 +48,11 @@ coverage.xml
 # Local environment variables
 .env
 .env.*
+
+# Data files (JSON and TS)
+*data.json
+*data.ts
+
+# Output files
+output*.md
+output.txt
