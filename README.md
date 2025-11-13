@@ -75,5 +75,3 @@ The script:
 
 MIT
 
-Just tell me!
-```
